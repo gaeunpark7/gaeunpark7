@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/gaeunpark7"
@@ -5,6 +6,8 @@
   height="300"
 />
 </a>
+  </div>
+
 <!--
 **gaeunpark7/gaeunpark7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
