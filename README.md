@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<center>
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/gaeunpark7"
@@ -6,4 +6,4 @@
       height="300"
     />
   </a>
-</div>
+</center>
